@@ -24,7 +24,6 @@ public class TestMain {
 
         jdkProxy.jdkInterface();
 
-        System.out.println("666");
     }
 
 
