@@ -26,6 +26,7 @@ public class TestMain {
 
         String name = "666666";
         String name3 = "999999";
+        String name2 = "888888";
     }
 
 
