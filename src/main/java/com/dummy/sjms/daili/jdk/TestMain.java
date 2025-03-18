@@ -25,7 +25,7 @@ public class TestMain {
         jdkProxy.jdkInterface();
 
         String name = "666666";
-
+        String name3 = "999999";
     }
 
 
